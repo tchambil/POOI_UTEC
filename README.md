@@ -22,4 +22,5 @@ Escriba un programa que modele 2 vehículos (automóvil y camión) y simule la cond
 ## Ejemplos:
 se adjunta
 
-Ejercicio adaptado de [![SoftUni](https://softuni.bg/ "SoftUni")](https://softuni.bg/content/images/svg-logos/software-university-logo.svg "SoftUni")
+Ejercicio adaptado de  [softuni][1]
+[1]: https://softuni.bg/ "softuni"
