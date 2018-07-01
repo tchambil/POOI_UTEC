@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/laptop/CLionProjects/POO/Estudiante.cpp
+Estudiante.h
+C:/Users/laptop/CLionProjects/POO/Estudiante.h
+
+C:/Users/laptop/CLionProjects/POO/Estudiante.h
+Persona.h
+C:/Users/laptop/CLionProjects/POO/Persona.h
+
+C:/Users/laptop/CLionProjects/POO/Persona.cpp
+Persona.h
+C:/Users/laptop/CLionProjects/POO/Persona.h
+
+C:/Users/laptop/CLionProjects/POO/Persona.h
+iostream
+-
+
+C:/Users/laptop/CLionProjects/POO/main.cpp
+iomanip
+-
+Estudiante.h
+C:/Users/laptop/CLionProjects/POO/Estudiante.h
+
